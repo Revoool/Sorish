@@ -30,5 +30,7 @@ I build scalable products and internal tools:
 - Email: you@email.com
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revoool&show_icons=true&theme=tokyonight)
+---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revoool&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revoool&layout=compact&theme=tokyonight)
